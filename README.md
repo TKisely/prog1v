@@ -6,5 +6,7 @@ A 2. labor feladatai közül néhány feladat általam írt megoldása a [labor0
 A 3. labor feladatai közül néhány feladat általam írt megoldása a [labor03 mappában](https://github.com/bence-sebok/prog1v/tree/master/labor03) található.
 ### 4. labor
 A 4. labor feladatai közül néhány feladat általam írt megoldása a [labor04 mappában](https://github.com/bence-sebok/prog1v/tree/master/labor04) található.
+### 5. labor
+Az 5. labor feladatai közül néhány feladat általam írt megoldása a [labor05 mappában](https://github.com/bence-sebok/prog1v/tree/master/labor05) található.
 ## Házi feladat
 Egy példa házi feladat rövid leírása megtalálható a [hf mappában](https://github.com/bence-sebok/prog1v/tree/master/hf).
