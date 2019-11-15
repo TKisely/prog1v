@@ -8,6 +8,7 @@ Az egyes linkek az adott laborhoz tartozó mappákba vezetnek, ahol segédanyago
 - [labor06](https://github.com/bence-sebok/prog1v/tree/master/labor06)
 - [labor07](https://github.com/bence-sebok/prog1v/tree/master/labor07)
 - [labor08](https://github.com/bence-sebok/prog1v/tree/master/labor08)
+- [labor09 - láncolt lista](https://github.com/bence-sebok/prog1v/tree/master/labor09)
 ## Házi feladat
 Egy példa házi feladat rövid leírása megtalálható a [hf mappában](https://github.com/bence-sebok/prog1v/tree/master/hf).
 ## Szorgalmi feladatok
