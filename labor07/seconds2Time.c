@@ -21,7 +21,7 @@ void printTime(time_t t) {
 time_t seconds2Time(int secondsInput) {
     int hours = secondsInput / 3600;
     int minutes = (secondsInput % 3600) / 60;
-    int seconds = ((secondsInput % 3600) % 60);
+    int seconds = secondsInput % 60;
     time_t result = { hours, minutes, seconds };
     return result;
 }
